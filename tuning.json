@@ -1,0 +1,172 @@
+{
+    "frequencies": [
+      {
+        "tuning": "Standard",
+        "notes": ["e2", "a2", "d3", "g3", "b3", "e4"]
+      },
+      {
+        "tuning": "Drop D",
+        "notes": ["d2", "a2", "d3", "g3", "b3", "e4"]
+      },
+      {
+        "tuning": "D# Standard",
+        "notes": ["d#2", "g#2", "c#3", "f#3", "a#3", "d#4"]
+      },
+      {
+        "tuning": "D Standard",
+        "notes": ["d2", "g2", "c3", "f3", "a3", "d4"]
+      },
+      {
+        "tuning": "C# Standard",
+        "notes": ["c#2", "f#2", "b2", "e3", "g#3", "c#4"]
+      },
+      {
+        "tuning": "Double Drop D",
+        "notes": ["d2", "a2", "d3", "g3", "b3", "d4"]
+      },
+      {
+        "tuning": "Drop C",
+        "notes": ["c2", "g2", "c3", "f3", "a3", "d4"]
+      },
+      {
+        "tuning": "Drop C#",
+        "notes": ["c#2", "g#2", "c#3", "f#3", "a#3", "d#4"]
+      },
+      {
+        "tuning": "Drop B",
+        "notes": ["b1", "f#2", "b2", "e3", "g#3", "c#4"]
+      },
+      {
+        "tuning": "Drop A#",
+        "notes": ["a#1", "f2", "a#2", "d#3", "g3", "c4"]
+      },
+      {
+        "tuning": "Drop A",
+        "notes": ["a1", "e2", "a2", "d3", "f#3", "b3"]
+      },
+      {
+        "tuning": "Open D",
+        "notes": ["d2", "a2", "d3", "f#3", "a3", "d4"]
+      },
+      {
+        "tuning": "Open D Minor",
+        "notes": ["d2", "a2", "d3", "f3", "a3", "d4"]
+      },
+      {
+        "tuning": "Open G",
+        "notes": ["d2", "g2", "d3", "g3", "b3", "d4"]
+      },
+      {
+        "tuning": "Open G Minor",
+        "notes": ["d2", "g2", "d3", "g3", "a#3", "d4"]
+      },
+      {
+        "tuning": "Open C",
+        "notes": ["c2", "g2", "c3", "g3", "c4", "e4"]
+      },
+      {
+        "tuning": "Open C#",
+        "notes": ["c#2", "f#2", "b3", "e3", "g#3", "c#4"]
+      },
+      {
+        "tuning": "Open C Minor",
+        "notes": ["c2", "g2", "c3", "g3", "c4", "d#4"]
+      },
+      {
+        "tuning": "Open E7",
+        "notes": ["e2", "g#2", "d3", "e3", "b3", "e4"]
+      },
+      {
+        "tuning": "Open E Minor7",
+        "notes": ["e2", "b2", "d3", "g3", "b3", "e4"]
+      },
+      {
+        "tuning": "Open G Major7",
+        "notes": ["d2", "g2", "d3", "f#3", "b3", "d4"]
+      },
+      {
+        "tuning": "Open A Minor",
+        "notes": ["e2", "a2", "e3", "a3", "c4", "e4"]
+      },
+      {
+        "tuning": "Open A Minor7",
+        "notes": ["e2", "a2", "e3", "g3", "c4", "e4"]
+      },
+      {
+        "tuning": "Open E",
+        "notes": ["e2", "b2", "e3", "g#3", "b3", "e4"]
+      },
+      {
+        "tuning": "Open A",
+        "notes": ["e2", "a2", "c#3", "e3", "a3", "e4"]
+      },
+      {
+        "tuning": "C Tuning",
+        "notes": ["c2", "f2", "a#2", "d#3", "g3", "c4"]
+      },
+      {
+        "tuning": "C# Tuning",
+        "notes": ["c#2", "f#2", "b2", "e3", "g#3", "c#4"]
+      },
+      {
+        "tuning": "Bb Tuning",
+        "notes": ["a#1", "d#2", "g#2", "c#3", "f3", "a#3"]
+      },
+      {
+        "tuning": "A Standard",
+        "notes": ["a1", "d2", "g2", "c3", "e3", "a3"]
+      },
+      {
+        "tuning": "D A D D D D",
+        "notes": ["d2", "a2", "d3", "d3", "d4", "d4"]
+      },
+      {
+        "tuning": "C G D G B D",
+        "notes": ["c2", "g2", "d3", "g3", "b3", "d4"]
+      },
+      {
+        "tuning": "C G D G B E",
+        "notes": ["c2", "g2", "d3", "g3", "b3", "e4"]
+      },
+      {
+        "tuning": "D A D E A D",
+        "notes": ["d2", "a2", "d3", "e3", "a3", "d4"]
+      },
+      {
+        "tuning": "D G D G A D",
+        "notes": ["d2", "g2", "d3", "g3", "a3", "d4"]
+      },
+      {
+        "tuning": "Open Dsus2",
+        "notes": ["d2", "a2", "d3", "g3", "a3", "d4"]
+      },
+      {
+        "tuning": "Open Gsus2",
+        "notes": ["d2", "g2", "d3", "g3", "c4", "d4"]
+      },
+      {
+        "tuning": "G6",
+        "notes": ["d2", "g2", "d3", "g3", "b3", "e4"]
+      },
+      {
+        "tuning": "Modal G",
+        "notes": ["d2", "g2", "d3", "g3", "c4", "d4"]
+      },
+      {
+        "tuning": "Overtone",
+        "notes": ["c3", "e3", "g3", "a#3", "c4", "d4"]
+      },
+      {
+        "tuning": "Pentatonic",
+        "notes": ["a2", "c3", "d3", "e3", "g3", "a4"]
+      },
+      {
+        "tuning": "Minor Third",
+        "notes": ["c3", "d#3", "f#3", "a3", "c4", "d#4"]
+      },
+      {
+        "tuning": "Major Third",
+        "notes": ["c3", "e3", "g#3", "c4", "e4", "g#4"]
+      }
+    ]
+}
